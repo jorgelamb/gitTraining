@@ -1,1 +1,1 @@
-<? contactUs() ?>
+<? processContactUs() ?>
