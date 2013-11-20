@@ -1,1 +1,1 @@
-<? processContactUs() ?>
+<? processContactUs($_REQUEST); ?>
